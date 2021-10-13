@@ -1,17 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T07:20:20.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="tqBFvFhu6KK4MA8BdpZX" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T11:06:33.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="WfYgdCgTagUn7peTv3YT" version="15.4.3" type="github">
   <diagram id="IOVBsicUrae7RgaIUmyK" name="Page-1">
-    <mxGraphModel dx="736" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5TABYaa5sN3FfillR1Sn-6" value="Nguồn thông tin từ các báo" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;strokeWidth=1;fillColor=none;fontColor=#1CA5B8;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="210" height="40" as="geometry" />
+        <mxCell id="5TABYaa5sN3FfillR1Sn-6" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Tóm tắt văn bản&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;strokeWidth=1;fillColor=none;fontColor=#1CA5B8;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TABYaa5sN3FfillR1Sn-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="185" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5TABYaa5sN3FfillR1Sn-9" value="Hệ thống thu thập thông tin" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;strokeWidth=1;fillColor=none;fontColor=#1CA5B8;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="5TABYaa5sN3FfillR1Sn-9" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Tách văn bản&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;strokeWidth=1;fillColor=none;fontColor=#1CA5B8;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="420" y="200" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="257.5" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-11" value="Cắt văn bản thành các câu, từ" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="420" y="342.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-13" value="Dữ liệu được thu thập" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#1A1A1A;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="300" y="327.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-16" value="Chuyển văn bản thành vector" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="65" y="342.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.53;dx=26;notch=0;fontColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="140.63" y="407.5" width="68.75" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="300" y="465" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-20" value="Chọn lọc văn bản sau tóm tắt" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-21" value="Lưu dữ liệu đã được xử lý vào cơ sở dữ liệu" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TABYaa5sN3FfillR1Sn-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.62;dx=38.6;notch=0;fontColor=#1A1A1A;rotation=-225;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="82.55" height="37.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
